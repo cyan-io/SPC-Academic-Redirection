@@ -5,7 +5,7 @@
 // @license      MPL-2.0
 // @description  通过重定向至图书馆包库，解锁期刊访问权限
 // @author       https://github.com/cyan-io
-// @homepage     https://github.com/cyan-io
+// @homepage     https://github.com/cyan-io/SPC-Academic-Redirection
 // @match        https://ieeexplore.ieee.org/*
 // @match        https://dl.acm.org/*
 // @match        https://auth.elsevier.com/*
